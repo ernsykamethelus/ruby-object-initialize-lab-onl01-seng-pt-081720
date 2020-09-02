@@ -23,4 +23,3 @@ end
 
 
 fido = Dog.new("Fido", "Pug")
-puts 
