@@ -14,4 +14,4 @@ end
 
 
 Mutt = Dog.new "Mutt"
-.breed
+Mutt.breed
