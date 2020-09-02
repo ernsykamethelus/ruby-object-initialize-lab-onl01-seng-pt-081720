@@ -27,4 +27,4 @@ end
 end
 
 
-name.instance_variable_set(:@breed, "Mutt")
+puts 
