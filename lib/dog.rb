@@ -27,4 +27,5 @@ end
 end
 
 
-puts 
+Mutt= Dog.new
+puts Mutt
