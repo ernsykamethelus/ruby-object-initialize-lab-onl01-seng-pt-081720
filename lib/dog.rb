@@ -22,5 +22,5 @@ end
 end
 
 
-Mutt= Dog.new
+Mutt= Dog.new("Mutt")
 puts Mutt
