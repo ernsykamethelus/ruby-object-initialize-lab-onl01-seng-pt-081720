@@ -13,5 +13,5 @@ end
 end
 
 
-fido = Dog.new "Mutt"
+Mutt = Dog.new "Mutt"
 fido.breed
