@@ -22,5 +22,6 @@ end
 end
 
 
-fido = Dog.new("Fido", "Pug")
-puts fido.breed
+fido = Dog.new 
+fido.name = "Fido"
+puts fido.name
