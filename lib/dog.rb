@@ -13,4 +13,4 @@ end
 end
 
 
-Mutt= Dog.new ""
+fido = Dog.new "Mutt"
