@@ -27,5 +27,4 @@ end
 end
 
 
- = Dog.new "Mutt"
-Mutt.breed
+name.instance_variable_set(:@breed, "Mutt")
